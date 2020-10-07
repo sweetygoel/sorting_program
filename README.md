@@ -1,11 +1,3 @@
 # sorting_program
 
-n=int(input("Enter number of elements : "))
-print(n)
-l=[]
-for i in range(n):
-    ele=int(input("Enter elements: "))
-    l.append(ele)
-
-l.sort()
-print(l)
+This is a sorting program.In which we can take input from the user. Then we sort them.
