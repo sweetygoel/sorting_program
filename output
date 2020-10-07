@@ -1,0 +1,8 @@
+Enter number of elements : 5
+5
+Enter elements: 34
+Enter elements: 76
+Enter elements: 78
+Enter elements: 89
+Enter elements: 5
+[5, 34, 76, 78, 89]
