@@ -1,0 +1,20 @@
+n=int(input("Enter number of elements : "))
+print(n)
+l=[]
+for i in range(n):
+    ele=int(input("Enter elements: "))
+    l.append(ele)
+
+l.sort()
+print(l)
+
+OutPut:
+Enter number of elements : 5
+5
+Enter elements: 34
+Enter elements: 76
+Enter elements: 78
+Enter elements: 89
+Enter elements: 5
+[5, 34, 76, 78, 89]
+
